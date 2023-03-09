@@ -141,11 +141,11 @@ const CONFIG = {
 				},
 				{
 					name: 'unixporn',
-					link: 'https://www.reddit.com/unixporn',
+					link: 'https://www.reddit.com/r/unixporn',
 				},
 				{
 					name: 'Dota2',
-					link: 'https://www.reddit.com/dota2',
+					link: 'https://www.reddit.com/r/dota2',
 				},
 				{
 					name: 'Rock',
