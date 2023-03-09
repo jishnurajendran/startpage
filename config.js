@@ -9,8 +9,8 @@ const CONFIG = {
 
 	// General
 	name: 'Jishnu',
-	imageBackground: false,
-	openInNewTab: true,
+	imageBackground: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
