@@ -68,9 +68,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'GMail',
+			icon: 'mail',
+			link: 'https://mail.google.com',
 		},
 		{
 			id: '5',
