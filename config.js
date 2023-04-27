@@ -137,7 +137,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Reddit',
-					link: 'https://www.reddit.com/',
+					link: 'https://www.reddit.com /',
 				},
 				{
 					name: 'unixporn',
